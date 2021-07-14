@@ -1,0 +1,74 @@
+Set-ExecutionPolicy RemoteSigned
+
+npm i -g gulp-cli
+
+src()
+dest()
+pipe()
+watch()
+task()
+series()
+parallel()
+
+npm ls -g --depth=0
+
+npm view jquery version
+
+npm i jquery normalize.css
+
+npm install --save-dev gulp
+
+type >> .gitignore
+
+type >> gulpfile.js
+
+type >> webpack.config.js
+
+MKDIR -p src/templates/pages
+
+npm init -y
+
+npm install -D gulp-pug
+
+type >> src/templates/tempalte.pug
+type  >> src/templates/pages/index.pub
+type  >> src/templates/pages/about.pub
+type  >> src/templates/pages/blog.pub
+type  >> src/templates/pages/my-works.pub
+
+gulp tempaltes
+
+npm install -g gulp-cli
+npm install -D gulp
+
+type >> src/templates/common/menu.pug
+
+npm install -D gulp-sass gulp-rename gulp-sourcemaps (npm install sass gulp-sass --save-dev)(const sass = require('gulp-sass')(require('sass'));)
+
+type >> src/styles/app.scss
+type >> src/styles/common/menu.scss
+
+gulp styles
+
+npm install -D browser-sync
+
+gulp
+
+ctrl + c 
+
+npm install -D webpack-stream webpack uglifyjs-webpack-plugin
+npm i webpack webpack-cli--save-dev
+(yarn add webpack webpack-cli-D)
+
+type >> src/scripts/app.js
+type >> src/scripts/common/slider.js
+
+type >> src/templates/common/slider.pug
+
+type >> src/styles/common/slider.scss
+
+gulp
+
+
+
+

@@ -1,0 +1,31 @@
+{
+    "name": "Test_18v2",
+    "version": "1.0.0",
+    "description": "gulp",
+    "main": "gulpfile.js",
+    "dependencies": {
+        "jquery": "^3.6.0",
+        "lodash": "^4.17.21",
+        "normalize.css": "^8.0.1"
+    },
+    "devDependencies": {
+        "browser-sync": "^2.27.4",
+        "gulp": "^4.0.2",
+        "gulp-pug": "^5.0.0",
+        "gulp-rename": "^2.0.0",
+        "gulp-sass": "^5.0.0",
+        "gulp-sourcemaps": "^3.0.0",
+        "html-webpack-plugin": "^5.3.2",
+        "sass": "^1.35.2",
+        "uglifyjs-webpack-plugin": "^2.2.0",
+        "webpack": "^5.44.0",
+        "webpack-cli": "^4.7.2",
+        "webpack-stream": "^6.1.2"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Andrei Mikhalka",
+    "license": "ISC"
+}
